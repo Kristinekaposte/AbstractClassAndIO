@@ -1,0 +1,5 @@
+sam 1200
+jane 3200
+john 250
+jana 135.0
+baiba 12.47
